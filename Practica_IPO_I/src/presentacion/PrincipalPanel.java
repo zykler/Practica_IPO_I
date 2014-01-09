@@ -112,7 +112,7 @@ public class PrincipalPanel {
 	 */
 	private void initialize() {
 		frmFisiplus = new JFrame();
-		frmFisiplus.setIconImage(Toolkit.getDefaultToolkit().getImage(PrincipalPanel.class.getResource("/Recursos/hospital-icon.png")));
+		frmFisiplus.setIconImage(Toolkit.getDefaultToolkit().getImage(PrincipalPanel.class.getResource("/Recursos/Pacientes.png")));
 		frmFisiplus.setTitle("Fisiplus");
 		frmFisiplus.setBounds(100, 100, 800, 600);
 		frmFisiplus.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
